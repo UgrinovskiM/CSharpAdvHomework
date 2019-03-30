@@ -1,0 +1,7 @@
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\marja\Documents\Seavus\C taraba Advanced\sedc7-06-csharpadvanced\g3\Homework CSharpAdvanced - Class2\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
